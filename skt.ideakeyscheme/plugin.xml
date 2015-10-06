@@ -9,6 +9,16 @@
             parentId="org.eclipse.ui.defaultAcceleratorConfiguration">
       </scheme>
       <key
+            commandId="org.eclipse.ui.window.nextEditor"
+            schemeId="org.eclipse.ui.defaultAcceleratorConfiguration"
+            sequence="M1+Tab">
+      </key>
+      <key
+            commandId="org.eclipse.ui.window.previousEditor"
+            schemeId="org.eclipse.ui.defaultAcceleratorConfiguration"
+            sequence="M1+M2+Tab">
+      </key>
+      <key
             commandId="org.eclipse.jdt.ui.navigate.open.type"
             contextId="org.eclipse.ui.contexts.window"
             schemeId="IdeaKeyScheme"
